@@ -29,14 +29,14 @@ This python script help to change Terminal Proxy so install python3 if you don't
 
 ### Commands available:
 
-tpc              : Used to change proxies
+> tpc              : Used to change proxies
 
-tpc -v           : to return its version
+> tpc -v           : to return its version
     -version
 
-tpc -help        : for help
+> tpc -help        : for help
  
-tcp -r           : to reset proxies
+> tcp -r           : to reset proxies
 
 
 ### Licence
