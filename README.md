@@ -22,10 +22,10 @@ This python script help to change Terminal Proxy so install python3 if you don't
 
    For executing the file use super user with it as follows:
 
-     sudo tpc
-     sudo tpc -v
-     sudo tpc -r
-     sudo tpc -help
+     <sudo tpc>
+     <sudo tpc -v>
+     <sudo tpc -r>
+     <sudo tpc -help>
 
 ### Commands available:
 
