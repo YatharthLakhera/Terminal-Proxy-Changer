@@ -32,7 +32,6 @@ This python script help to change Terminal Proxy so install python3 if you don't
 > tpc              : Used to change proxies
 
 > tpc -v           : to return its version
-    -version
 
 > tpc -help        : for help
  
